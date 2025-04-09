@@ -1,13 +1,13 @@
 [![MasterHead](https://github.com/MrEchoFi/MrEchoFi/blob/ed946b76e7d296e232103be2fa94326b68741a2d/Banner%20of%20Mr.EchoFi%202.jpg)](https://github.com/MrEchoFi/MrEchoFi/blob/5f837b51e5269d89f4e9d8bd99f490147da3781a/Mr.EchoFi-New-Logo-with-ASCII.jpg)
 
 <h1 align="center">Hi 👋, I'm Mr. EchoFi</h1>
-<h3 align="center">Hardware penetration tester, cybersecurity enthusiast and tech enthusiast, specializing in building innovative hacking devices and tools to strengthen digital security.</h3>
+<h3 align="center">Hardware penetration tester, cybersecurity & IOT  specialist and tech enthusiast; specializing in building innovative hacking devices and tools to strengthen digital security.</h3>
 <img align="center" alt="Coding" width="340" src="https://github.com/MrEchoFi/MrEchoFi/blob/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrechofi&label=Profile%20views&color=0e75b6&style=flat" alt="mrechofi" /> </p>
 
-- 🔭 I’m currently working on **New Project for hardware penetration testing device like EchoFi BoX V2.0**
+- 🔭 I’m currently working on **New Project for hardware penetration testing device such as DDoS, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0**
 
 - 💬 Ask me about **Tools for hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hardware hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
