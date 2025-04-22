@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrechofi&label=Profile%20views&color=0e75b6&style=flat" alt="mrechofi" /> </p>
 
-- 🔭 I’m currently working on **New Project for hardware penetration testing device such as DDoS, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0**
+- 🔭 I’m currently working on **New Project for penetration testing & hardware penetration testing device; such as DDoS, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0**
 
 - 💬 Ask me about **Tools for hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hardware hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
