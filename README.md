@@ -1,4 +1,7 @@
-[![MasterHead](https://github.com/MrEchoFi/MrEchoFi/blob/ed946b76e7d296e232103be2fa94326b68741a2d/Banner%20of%20Mr.EchoFi%202.jpg)](https://github.com/MrEchoFi/MrEchoFi/blob/5f837b51e5269d89f4e9d8bd99f490147da3781a/Mr.EchoFi-New-Logo-with-ASCII.jpg)
+<div align="center">
+ <img src="https://github.com/MrEchoFi/MrEchoFi/blob/5f837b51e5269d89f4e9d8bd99f490147da3781a/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="1" height="auto" />
+
+
 
 <h1 align="center">Hi 👋, I'm Mr. EchoFi</h1>
 <h3 align="center">Hardware penetration tester, cybersecurity & IOT  specialist and tech enthusiast; specializing in building innovative hacking devices and tools to strengthen digital security.</h3>
