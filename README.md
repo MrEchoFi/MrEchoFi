@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&pause=500&color=E8E8E8&width=435&lines=Hey+bruh..+what's+up+!!!;I'm+Mr.+EchoFi+["-"])](https://git.io/typing-svg)
   
-<h1 align="center">Buzzzzzzzzz </h1>
+<h1 align="center">Huh? </h1>
 <h3 align="center">DevSecOps, Penetration tester, Cybersecurity, DevOps, Robotics, Networking, Full stack development, ML, IOT  specialist and Tech enthusiast; specializing in building innovative hacking tools , devices, servers & software to strengthen digital security.</h3>
 <img align="center" alt="Coding" width="340" src="https://github.com/MrEchoFi/MrEchoFi/blob/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg">
 
