@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrechofi&label=Profile%20views&color=0e75b6&style=flat" alt="mrechofi" /> </p>
 </div>
-- 🔭 I’m currently working on **New Project for penetration testing & hardware penetration testing device; such as Banner grab, IP grab, my forensic site, DDoS, DoS_Glyder, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0**
+- 🔭 I’m currently working on **New Project for DevSecOps, penetration testing & hardware penetration testing device; such as BannerGrapV2, IP grab, my forensic site, DDoS, DoS_Glyder, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0, Advance C2 server, EchoFi_DevSec_Payload**
 
-- 💬 Ask me about **Tools for hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hardware hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
+- 💬 Ask me about **Tools for DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
 - 📫 How to reach me, **http://mrechofi.github.io/Tanjib_portfolio_website/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
