@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Tools for DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
-- 📫 How to reach me, **https://tanjib-portfolio-website.vercel.app/**, **http://mrechofi.github.io/Tanjib_portfolio_website/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
+- 📫 How to reach me, **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
 - ⚡ Fun fact **104 97 118 101 32 97 110 121 32 113 117 101 115 116 105 111 110 32 106 117 115 116 32 116 101 120 116 32 109 101 32 105 110 32 109 121 32 109 97 105 108 46**
 
