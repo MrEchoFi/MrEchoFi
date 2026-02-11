@@ -10,6 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrechofi&label=Profile%20views&color=0e75b6&style=flat" alt="mrechofi" /> </p>
 </div>
+
 - 🔭 I’m currently working on **New Project for DevSecOps, penetration testing & hardware penetration testing device; such as BannerGrapV2, IP grab, my forensic site, DDoS, DoS_Glyder, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0, Advance C2 server, EchoFi_DevSec_Payload**
 
 - 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
@@ -20,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Md. Abu Naser Nayeem MrEchoFi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjib isham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-abu-naser-nayeem-mrechofi-b29496332?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjib isham" height="30" width="40" /></a>
 <a href="https://fb.com/tanjib isham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjib isham" height="30" width="40" /></a>
 </p>
 
