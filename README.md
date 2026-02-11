@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&pause=500&color=E8E8E8&width=435&lines=Hey+bruh..+what's+up+!!!;I'm+Mr.+EchoFi+["-"])](https://git.io/typing-svg)
   
-<h1 align="center">Huh? </h1>
-<h3 align="center">DevSecOps, Penetration tester, Cybersecurity, DevOps, Robotics, Networking, Full stack development, ML, IOT  specialist and Tech enthusiast; specializing in building innovative hacking tools , devices, servers & software to strengthen digital security.</h3>
+<h2 align ="center"> Just doing IT stuffs in these fields: </h2>
+<h3 align="center">DevSecOps, Penetration tester, Cybersecurity, DevOps, Robotics, Networking, Full stack development, ML, IOT  specialist and Tech enthusiast; specializing in building innovative hacking tools~devices, servers & software to strengthen digital security.</h3>
 <img align="center" alt="Coding" width="340" src="https://github.com/MrEchoFi/MrEchoFi/blob/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg">
 
 
@@ -12,7 +12,7 @@
 </div>
 - 🔭 I’m currently working on **New Project for DevSecOps, penetration testing & hardware penetration testing device; such as BannerGrapV2, IP grab, my forensic site, DDoS, DoS_Glyder, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0, Advance C2 server, EchoFi_DevSec_Payload**
 
-- 💬 Ask me about **Tools for DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
+- 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
 - 📫 How to reach me, **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanjib isham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjib isham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Md. Abu Naser Nayeem MrEchoFi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjib isham" height="30" width="40" /></a>
 <a href="https://fb.com/tanjib isham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjib isham" height="30" width="40" /></a>
 </p>
 
