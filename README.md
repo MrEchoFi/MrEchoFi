@@ -14,7 +14,7 @@
 </div>
 
 # NOTE:
-**[Discoverer of CVE‑2025‑69794](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
+**[Discoverer of CVE‑2025‑69794 (LangChain API key exposure via __repr__)](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
 
 # Currently Working on:
 
