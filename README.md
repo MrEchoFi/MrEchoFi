@@ -5,7 +5,7 @@
 
 
 <h2 align ="center"> Just doing IT stuffs in these fields: </h2>
-<h3 align="center">DevSecOps, Penetration tester, Cybersecurity, DevOps, Robotics, Networking, Full stack development, ML, IOT  specialist and Tech enthusiast; specializing in building innovative hacking tools~devices, servers & software to strengthen digital security.</h3>
+<h3 align="center">DevSecOps, Penetration testing, Cybersecurity, DevOps, Robotics, Networking, Full stack development, ML, IOT and building innovative hacking tools~devices, servers & software to strengthen digital security.</h3>
 
 <img align="center" alt="Coding" width="340" src="https://github.com/MrEchoFi/MrEchoFi/blob/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg">
 
