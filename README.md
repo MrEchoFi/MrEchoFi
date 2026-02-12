@@ -2,16 +2,26 @@
  <img src="https://github.com/MrEchoFi/MrEchoFi/blob/5f837b51e5269d89f4e9d8bd99f490147da3781a/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="1" height="auto" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&pause=500&color=E8E8E8&width=435&lines=Hey+bruh..+what's+up+!!!;I'm+Mr.+EchoFi+["-"])](https://git.io/typing-svg)
-  
+
+
 <h2 align ="center"> Just doing IT stuffs in these fields: </h2>
 <h3 align="center">DevSecOps, Penetration tester, Cybersecurity, DevOps, Robotics, Networking, Full stack development, ML, IOT  specialist and Tech enthusiast; specializing in building innovative hacking tools~devices, servers & software to strengthen digital security.</h3>
+
 <img align="center" alt="Coding" width="340" src="https://github.com/MrEchoFi/MrEchoFi/blob/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrechofi&label=Profile%20views&color=0e75b6&style=flat" alt="mrechofi" /> </p>
 </div>
 
+# NOTE:
+**[Discoverer of CVE‑2025‑69794](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
+
+# Currently Working on:
+
 - 🔭 I’m currently working on **New Project for DevSecOps, penetration testing & hardware penetration testing device; such as BannerGrapV2, IP grab, my forensic site, DDoS, DoS_Glyder, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0, Advance C2 server, EchoFi_DevSec_Payload**
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
