@@ -26,8 +26,7 @@
 - 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
 - 📫 How to reach me, **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
-```
-```
+
 
 # Certifications
 - [Certified Red Team — CredOps Infiltrator (CRT‑COI) Certificate](https://labs.cyberwarfare.live/credential/achievement/6a225b74502eca766313f251)
