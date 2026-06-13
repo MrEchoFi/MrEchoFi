@@ -21,18 +21,23 @@
 - 🔭 I’m currently working on **New Project for DevSecOps, penetration testing & hardware penetration testing device; such as BannerGrapV2, IP grab, my forensic site, DDoS, DoS_Glyder, Phishing Domain Detector, BLE_Ducky, EchoFi BoX V2.0, Advance C2 server, EchoFi_DevSec_Payload**
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
-- 📫 How to reach me, **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
-
+# Open Source Contribution
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged |
 
 # Certifications
 - [Certified Red Team — CredOps Infiltrator (CRT‑COI) Certificate](https://labs.cyberwarfare.live/credential/achievement/6a225b74502eca766313f251)
 - [Certified Purple Teaming Fundamentals Certificate](https://labs.cyberwarfare.live/credential/achievement/6a231d950a96d50ef30c215b)
 - [DevSecOps-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TO0JHQEL7U.pdf)
 - [Critical Infrustructure Protection (CIP)](https://raw.githubusercontent.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/refs/heads/main/photo_2026-04-10_11-55-58.jpg)
+
+# Contacts
+- 📫 How to reach me, **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
