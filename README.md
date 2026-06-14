@@ -25,7 +25,7 @@
 - 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
 # Open Source Contribution
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged |
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged
 
 # Certifications
 - [Certified Red Team — CredOps Infiltrator (CRT‑COI) Certificate](https://labs.cyberwarfare.live/credential/achievement/6a225b74502eca766313f251)
