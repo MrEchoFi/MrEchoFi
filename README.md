@@ -36,7 +36,8 @@
 - **[Critical Infrustructure Protection (CIP)](https://raw.githubusercontent.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/refs/heads/main/photo_2026-04-10_11-55-58.jpg)**
 
 # Contacts
-- 📫 How to reach me, **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**, **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
+- 📫 **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**
+- **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
 
 
