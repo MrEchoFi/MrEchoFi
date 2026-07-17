@@ -39,7 +39,7 @@
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
+- 💬 Ask me about **RUST, Go, Python, Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how Hacking Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
 # Contacts
 - 📫 **[Portfolio Site](https://echo-fi-portfolio-node-js.vercel.app/)**
