@@ -13,6 +13,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrechofi&label=Profile%20views&color=0e75b6&style=flat" alt="mrechofi" /> </p>
 </div>
 
+# Contributor of ```ProjectDiscovery/Naabu```
+- **[PR](https://github.com/projectdiscovery/naabu/pull/1713) | ProjectDiscovery/Naabu | ✅ Merged**
+- **[Commit](https://github.com/projectdiscovery/naabu/pull/1713/changes/33c0f37855d7f5f84f18b2a7014b2528a78e6e64) | ✅ Merged**
+
+
+
+# Contributor of ```Oh-my-zsh```
+- **[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged**
+  
+- **[ohmyzsh/wiki](https://github.com/ohmyzsh/wiki/pull/116) |  ✅ Merged**
+
+# Certifications
+- **[Certified Red Team — CredOps Infiltrator (CRT‑COI) Certificate](https://labs.cyberwarfare.live/credential/achievement/6a225b74502eca766313f251)**
+- **[Certified Purple Teaming Fundamentals Certificate](https://labs.cyberwarfare.live/credential/achievement/6a231d950a96d50ef30c215b)**
+- **[DevSecOps-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TO0JHQEL7U.pdf)**
+- **[Critical Infrustructure Protection (CIP)](https://raw.githubusercontent.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/refs/heads/main/photo_2026-04-10_11-55-58.jpg)**
+
 # NOTE:
 **[Discoverer of CVE‑2025‑69794 (LangChain API key exposure via __repr__)](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
 
@@ -24,19 +41,8 @@
 
 - 💬 Ask me about **Tools for Bug Bounty, DevSecOps, hardware penetration testing, explain how my H.Device works, hardware systems like IoT devices or embedded systems, cybersecurity and hacking, todays cyber crimes and Protocols like like SPI, UART, or I2C etc.**
 
-# Oh-my-zsh Open Source Contribution
-- **[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged**
-  
-- **[ohmyzsh/wiki](https://github.com/ohmyzsh/wiki/pull/116) |  ✅ Merged**
-
-# Certifications
-- **[Certified Red Team — CredOps Infiltrator (CRT‑COI) Certificate](https://labs.cyberwarfare.live/credential/achievement/6a225b74502eca766313f251)**
-- **[Certified Purple Teaming Fundamentals Certificate](https://labs.cyberwarfare.live/credential/achievement/6a231d950a96d50ef30c215b)**
-- **[DevSecOps-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TO0JHQEL7U.pdf)**
-- **[Critical Infrustructure Protection (CIP)](https://raw.githubusercontent.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/refs/heads/main/photo_2026-04-10_11-55-58.jpg)**
-
 # Contacts
-- 📫 **https://echo-fi-portfolio-node-js.vercel.app/**, **https://tanjib-portfolio-website.vercel.app/**
+- 📫 **[Portfolio Site](https://echo-fi-portfolio-node-js.vercel.app/)**
 - **tanjibisham777@gmail.com & tanjibisham888@gmail.com**
 
 
